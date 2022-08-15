@@ -1,0 +1,11 @@
+header{
+    background-color: blue;
+}
+
+body {
+    background-color: #282c34;
+    color: rgb(209, 44, 44);
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+  }
